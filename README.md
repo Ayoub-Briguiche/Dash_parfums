@@ -1,0 +1,1 @@
+<img width="958" alt="Capture d’écran 2024-03-20 200625" src="[https://github.com/Ayoub-Briguiche/Dash_plotly/assets/159647559/9c5d4bb3-d08e-41ba-a479-771b09eeee00](https://raw.githubusercontent.com/Ayoub-Briguiche/Dash_parfums/refs/heads/main/cap_dash_parfums.png)">
